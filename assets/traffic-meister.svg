@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="600px" viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
+<rect fill="#DF6526" width="800" height="600"/>
+<g>
+	<rect x="43.632" y="15.684" fill="#FFFFFF" width="712.632" height="144.211"/>
+	
+		<rect x="56.263" y="28.316" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="687.369" height="118.947"/>
+</g>
+<g>
+	<rect x="44.685" y="168.421" fill="#FFFFFF" width="417.895" height="417.896"/>
+	
+		<rect x="57.316" y="181.053" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="392.631" height="392.632"/>
+</g>
+<g>
+	<rect x="472.053" y="168.421" fill="#FFFFFF" width="284.211" height="417.896"/>
+	
+		<rect x="484.684" y="181.053" fill="none" stroke="#000000" stroke-width="4" stroke-miterlimit="10" width="258.948" height="392.632"/>
+</g>
+<rect x="-445.553" y="-72.737" fill="none" width="188.895" height="155.79"/>
+<text transform="matrix(1 0 0 1 78.2305 107.8101)" font-family="'Chi-TownNF'" font-size="68.7318">TRAFFICMEISTER</text>
+<g id="epv61K.tif">
+	
+		<image overflow="visible" width="443" height="262" id="Layer_0_1_" xlink:href="32CBA5E2285EA6F.png"  transform="matrix(0.5323 0 0 0.5323 504.6836 7.812)">
+	</image>
+</g>
+<polygon points="496.915,128.926 98.034,128.595 86.42,117.739 485.3,118.07 "/>
+<g>
+	
+		<rect x="118.333" y="250.333" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="266.667" height="33.333"/>
+	<polygon points="379.574,279 366.907,255 379.574,255 	"/>
+</g>
+<g>
+	
+		<rect x="118.333" y="320.5" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="266.667" height="33.334"/>
+	<polygon points="379.574,349.166 366.907,325.166 379.574,325.166 	"/>
+</g>
+<g>
+	
+		<rect x="118.333" y="392" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="266.667" height="33.334"/>
+	<polygon points="379.574,420.666 366.907,396.666 379.574,396.666 	"/>
+</g>
+<text transform="matrix(0.7619 0 0 1 118.333 244.4185)" font-family="'Monaco'" font-size="28.7435">vehicle</text>
+<text transform="matrix(0.7619 0 0 1 118.333 315.3652)" font-family="'Monaco'" font-size="28.7435">brand</text>
+<text transform="matrix(0.7619 0 0 1 118.333 387.0566)" font-family="'Monaco'" font-size="28.7435">color</text>
+</svg>

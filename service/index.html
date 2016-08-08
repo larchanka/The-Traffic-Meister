@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <meta charset='UTF-8'>
+  <title>Traffic Meister application</title>
+  <link href='./styles/less/styles.css' rel="stylesheet" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimum-scale=1"/>
+</head>
+
+<body>
+
+  <h1>Traffic Meister application</h1>
+
+  <div class='loader'>
+    Loading...
+  </div>
+
+  <div class='error'>
+    Error while data loading. Try again later.
+  </div>
+
+  <div class='container'>
+    <div class='selects'>
+      <div class='select'>
+        <select id='type'></select>
+      </div>
+      <div class='select'>
+        <select id='brand' disabled="disabled"></select>
+      </div>
+      <div class='select'>
+        <select id='color' disabled="disabled"></select>
+      </div>
+    </div>
+
+    <div class='result'>
+
+    </div>
+  </div>
+
+</body>
+
+<script type='text/javascript' src='./scripts/bundle.js'></script>
+</html>
